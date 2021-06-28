@@ -1,4 +1,4 @@
-# ruby-perf
+# Ruby performance stuff
 
 ## Articles
 
