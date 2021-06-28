@@ -8,6 +8,11 @@
 - https://blog.appsignal.com/2018/03/20/fragment-caching-in-rails.html
 - https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/
 - https://thoughtbot.com/blog/untangling-ruby-threads
+- https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html
+- https://www.speedshop.co/2019/12/22/why-premature-optimization-is-bad.html
+- https://www.youtube.com/watch?v=XL51vf-XBTs
+- https://www.youtube.com/watch?v=BE5C2ydN0y0
+- https://mailchi.mp/railsspeed/how-to-read-flamegraphs-and-profiling-results
 
 
 ### Memory
