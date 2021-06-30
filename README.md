@@ -26,8 +26,15 @@
 - https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html
 
 
-## Gems
+### Gems
 
 - https://github.com/MiniProfiler/rack-mini-profiler
 - https://github.com/evanphx/benchmark-ips
 - https://github.com/michaelherold/benchmark-memory
+
+
+### SQL
+
+- https://thoughtbot.com/blog/reading-an-explain-analyze-query-plan
+- https://www.postgresqltutorial.com/postgresql-explain/
+- https://www.depesz.com/
