@@ -16,7 +16,7 @@
 - https://mailchi.mp/railsspeed/how-to-read-flamegraphs-and-profiling-results
 - https://www.youtube.com/watch?v=fGFM_UrSp70
 - https://www.fastruby.io/blog/ruby/performance/how-fast-are-ractors.html
-- http://tenderlovemaking.com/
+- https://tenderlovemaking.com/
 
 ### Memory
 - https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby
