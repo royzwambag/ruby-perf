@@ -25,6 +25,7 @@
 - https://www.speedshop.co/2017/12/04/malloc-doubles-ruby-memory.html
 - https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html
 - https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html
+- https://medium.com/klaxit-techblog/tracking-a-ruby-memory-leak-in-2021-9eb56575f731
 
 
 ### Gems
