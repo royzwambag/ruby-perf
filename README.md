@@ -1,4 +1,4 @@
-# Ruby performance stuff
+# (Ruby) performance stuff
 
 ## Articles
 
@@ -40,3 +40,7 @@
 - https://thoughtbot.com/blog/reading-an-explain-analyze-query-plan
 - https://www.postgresqltutorial.com/postgresql-explain/
 - https://www.depesz.com/
+
+### Other
+
+- https://www.codewithjason.com/productive-programming-day/
