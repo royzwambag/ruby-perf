@@ -1,8 +1,6 @@
 # (Ruby) performance stuff
 
-## Articles
-
-### General
+## General
 - https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/
 - https://github.com/JuanitoFatas/fast-ruby
 - https://collectiveidea.com/blog/archives/2015/02/19/optimizing-rails-for-memory-usage-part-1-before-you-optimize
@@ -11,14 +9,16 @@
 - https://thoughtbot.com/blog/untangling-ruby-threads
 - https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html
 - https://www.speedshop.co/2019/12/22/why-premature-optimization-is-bad.html
-- https://www.youtube.com/watch?v=XL51vf-XBTs
-- https://www.youtube.com/watch?v=BE5C2ydN0y0
 - https://mailchi.mp/railsspeed/how-to-read-flamegraphs-and-profiling-results
-- https://www.youtube.com/watch?v=fGFM_UrSp70
 - https://www.fastruby.io/blog/ruby/performance/how-fast-are-ractors.html
 - https://tenderlovemaking.com/
 
-### Memory
+### Videos
+- https://www.youtube.com/watch?v=fGFM_UrSp70
+- https://www.youtube.com/watch?v=XL51vf-XBTs
+- https://www.youtube.com/watch?v=BE5C2ydN0y0
+
+## Memory
 - https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby
 - https://www.speedshop.co/2017/03/09/a-guide-to-gc-stat.html
 - https://brandur.org/ruby-memory
@@ -28,19 +28,19 @@
 - https://medium.com/klaxit-techblog/tracking-a-ruby-memory-leak-in-2021-9eb56575f731
 
 
-### Gems
+## Gems
 
 - https://github.com/MiniProfiler/rack-mini-profiler
 - https://github.com/evanphx/benchmark-ips
 - https://github.com/michaelherold/benchmark-memory
 
 
-### SQL
+## SQL
 
 - https://thoughtbot.com/blog/reading-an-explain-analyze-query-plan
 - https://www.postgresqltutorial.com/postgresql-explain/
 - https://www.depesz.com/
 
-### Other
+## Other
 
 - https://www.codewithjason.com/productive-programming-day/
