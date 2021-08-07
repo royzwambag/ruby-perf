@@ -17,6 +17,7 @@
 - https://www.youtube.com/watch?v=fGFM_UrSp70
 - https://www.youtube.com/watch?v=XL51vf-XBTs
 - https://www.youtube.com/watch?v=BE5C2ydN0y0
+- https://www.youtube.com/watch?v=UCJsjr8ksDc
 
 ## Memory
 - https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby
